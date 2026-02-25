@@ -209,12 +209,12 @@ function App() {
 
       <footer className="footer">
         <div className="container">
-          <p>🎂 Создано с ❤️ для выбора лучших подарков на день рождения</p>
+          <p>Создано с ❤️ для выбора лучших подарков на день рождения</p>
           <p className="tech-stack">
             <i className="fas fa-code"></i> Технологии: React • Supabase • CSS
           </p>
           <p className="copyright">
-            {new Date().getFullYear()} © Подарочный выбор
+            {new Date().getFullYear()} © lopuh. Все права защищены.
           </p>
         </div>
       </footer>
